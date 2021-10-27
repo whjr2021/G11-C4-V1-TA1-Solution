@@ -4,5 +4,5 @@ for i in range(0, 5):
 
 
 # TA 1b: Code to print x-coordinates of the bricks using a for loop
-for i in range(0,6):
+for i in range(6):
   print("For i =", i, ", bricks coordinate =", i*100+10)
